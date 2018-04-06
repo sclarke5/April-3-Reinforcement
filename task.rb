@@ -24,13 +24,13 @@ class Task
 
 end
 
-homework = Task.new("finish project", "April 15, 2018")
-raking = Task.new("rake the leaves", "always")
-dish_washing = Task.new("wash the dishes", "it never ends")
-
-
-p homework
-raking.description = "continue raking leaves"
-dish_washing.due_date = "for the rest of your life"
-p raking
-p dish_washing
+# homework = Task.new("finish project", "April 15, 2018")
+# raking = Task.new("rake the leaves", "always")
+# dish_washing = Task.new("wash the dishes", "it never ends")
+#
+#
+# p homework
+# raking.description = "continue raking leaves"
+# dish_washing.due_date = "for the rest of your life"
+# p raking
+# p dish_washing
